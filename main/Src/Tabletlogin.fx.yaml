@@ -210,8 +210,8 @@ Tabletlogin As screen:
         RadiusTopRight: =0
         Size: =37.5
         Width: =761
-        X: =840
-        Y: =234
+        X: =838
+        Y: =228
         ZIndex: =11
 
     msft_TextInput_2 As text:
